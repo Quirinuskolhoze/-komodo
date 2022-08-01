@@ -1,5 +1,5 @@
-# Kominfo'd
+#komodo'd
 
 Website ini kena blokir kominfo ga ya...
 
-http://kominfo-d.vercel.app/
+http://komodo-d.vercel.app/
